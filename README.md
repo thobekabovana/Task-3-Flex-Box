@@ -1,8 +1,8 @@
-# React + Vite
+<img src="https://socialify.git.ci/thobekabovana/Task-3-Flex-Box/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Task-3-Flex-Box" width="640" height="320" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Task-3-Flex-Box
 
-Currently, two official plugins are available:
+This task focuses on learning and applying CSS Flexbox. You are given a UI design below that you
+need to recreate using Flexbox.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
